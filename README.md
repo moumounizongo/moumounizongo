@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @moumounizongo
+- 👀 I’m interested to multiobjective optimization
+- 🌱 I’m currently learning on matlab programming
+- 💞️ I’m looking to collaborate on matlab programming
